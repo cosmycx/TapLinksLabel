@@ -1,10 +1,10 @@
 ## TapLinksLabel
 
-UILabel subclass for tap links in the label text.
+UILabel subclass with tappable links.
 
 ### Requirements
-iOS 8.0+
-Xcode 8
+* iOS 8.0+
+* Xcode 8
 
 ###Installation
 
@@ -19,8 +19,8 @@ Copy the file TapLinksLabel.swift into your project
 ###Author
 
 Cosmin Potocean 
-[@cosmycx](https://twitter.com/cosmycx)
-[LinkedIn](https://www.linkedin.com/in/cosmin-potocean-3318b964?trk=hp-identity-photo)
+* [@cosmycx](https://twitter.com/cosmycx)
+[* LinkedIn](https://www.linkedin.com/in/cosmin-potocean-3318b964?trk=hp-identity-photo)
 
 ###Licence
 
