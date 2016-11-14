@@ -20,7 +20,7 @@ Copy the file TapLinksLabel.swift into your project
 
 Cosmin Potocean 
 * [@cosmycx](https://twitter.com/cosmycx)
-[* LinkedIn](https://www.linkedin.com/in/cosmin-potocean-3318b964?trk=hp-identity-photo)
+* [LinkedIn](https://www.linkedin.com/in/cosmin-potocean-3318b964?trk=hp-identity-photo)
 
 ###Licence
 
